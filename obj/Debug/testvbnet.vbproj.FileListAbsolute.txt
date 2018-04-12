@@ -1,0 +1,12 @@
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.vbprojResolveAssemblyReference.cache
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.Form1.resources
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.Resources.resources
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.vbproj.GenerateResource.cache
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.vbproj.CoreCompileInputs.cache
+C:\Users\lockh\source\repos\testvbnet\bin\Debug\testvbnet.exe.config
+C:\Users\lockh\source\repos\testvbnet\bin\Debug\testvbnet.exe
+C:\Users\lockh\source\repos\testvbnet\bin\Debug\testvbnet.pdb
+C:\Users\lockh\source\repos\testvbnet\bin\Debug\testvbnet.xml
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.exe
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.xml
+C:\Users\lockh\source\repos\testvbnet\obj\Debug\testvbnet.pdb
